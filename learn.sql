@@ -1,0 +1,1 @@
+create view "You're an idiot"
