@@ -1,1 +1,1 @@
-create view "You're an idiot"
+create view "You're an idiot ok"
